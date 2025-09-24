@@ -34,7 +34,7 @@ HTML (for testing in browser)
 
 Clone the repository
 
-git clone https://github.com/your-username/javascript-day-one-task.git
+git clone https://github.com/adhheei/JavaScript-day1.git
 
 
 Open the files in any code editor (like VS Code).
